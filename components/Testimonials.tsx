@@ -16,11 +16,11 @@ const Testimonials: React.FC = () => {
             <div key={testimonial.id} className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100 flex flex-col relative">
               <Quote className="absolute top-6 right-6 text-nexa-100 w-10 h-10" />
               <p className="text-slate-600 italic mb-6 relative z-10">"{testimonial.content}"</p>
-              
+
               <div className="mt-auto flex items-center gap-4">
-                <img 
-                  src={testimonial.avatar} 
-                  alt={testimonial.name} 
+                <img
+                  src={testimonial.avatar}
+                  alt={testimonial.name}
                   className="w-12 h-12 rounded-full object-cover border-2 border-nexa-100"
                 />
                 <div>
@@ -32,14 +32,7 @@ const Testimonials: React.FC = () => {
           ))}
         </div>
 
-        {/* Client Logos Strip (Mock) */}
-        <div className="mt-16 pt-8 border-t border-slate-200 opacity-60 grayscale hover:grayscale-0 transition-all duration-500">
-          <div className="flex flex-wrap justify-center gap-12 items-center">
-            {['Microsoft', 'Google', 'Amazon', 'Oracle', 'IBM'].map((client) => (
-              <span key={client} className="text-xl font-bold text-slate-400">{client}</span>
-            ))}
-          </div>
-        </div>
+
       </div>
     </section>
   );
