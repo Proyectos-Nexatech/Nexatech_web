@@ -9,7 +9,7 @@ const Logo: React.FC<LogoProps> = ({ className = "", light = false }) => {
   return (
     <div className={`flex items-center ${className}`}>
       <img
-        src="/Logo%20Nexa.png"
+        src="./Logo Nexa.png"
         alt="Nexatech Logo"
         className={`h-20 w-auto object-contain ${light ? 'brightness-0 invert' : ''}`}
       />

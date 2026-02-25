@@ -58,7 +58,7 @@ function App() {
                         <div className="flex flex-col lg:flex-row items-center gap-16">
                             <div className="lg:w-1/2">
                                 <img
-                                    src="/Gestion.png"
+                                    src="./Gestion.png"
                                     alt="Gestión operativa Nexatech"
                                     className="rounded-2xl shadow-2xl transition-transform duration-500 hover:scale-[1.02]"
                                 />

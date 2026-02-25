@@ -4,25 +4,25 @@ import { ArrowRight, CheckCircle2, BarChart3, ChevronLeft, ChevronRight } from '
 const Hero: React.FC = () => {
   const images = [
     {
-      src: "/proyectos.png",
+      src: "./proyectos.png",
       alt: "Gestión de proyectos Nexatech",
       title: "Control Integral",
       subtitle: "Visibilidad y eficiencia tecnológica."
     },
     {
-      src: "/RRHH.png",
+      src: "./RRHH.png",
       alt: "Gestión de Talento Humano Nexatech",
       title: "Talento Humano",
       subtitle: "Gestión estratégica del capital humano."
     },
     {
-      src: "/RRHH2.png",
+      src: "./RRHH2.png",
       alt: "Cultura y Bienestar Nexatech",
       title: "Cultura Organizacional",
       subtitle: "Potenciando el crecimiento de tu equipo."
     },
     {
-      src: "/Activos.png",
+      src: "./Activos.png",
       alt: "Control de Activos Nexatech",
       title: "Control de Activos",
       subtitle: "Gestión inteligente de recursos físicos."
