@@ -8,8 +8,12 @@ const Footer: React.FC = () => {
       <div className="container mx-auto px-6">
         <div className="flex flex-col md:flex-row flex-wrap justify-between gap-12 lg:gap-8 mb-12">
           <div className="flex-1 min-w-[250px] max-w-sm">
-            <a href="#" className="flex items-center gap-2 mb-6 text-white">
-              <Logo light={true} />
+            <a href="#" className="flex items-center mb-6">
+              <img
+                src="./Logo-Nexa-footer.jpg"
+                alt="Nexatech Logo Footer"
+                className="h-20 w-auto object-contain rounded-lg shadow-lg"
+              />
             </a>
             <p className="text-sm leading-relaxed mb-6 font-medium text-slate-300">
               NexaTech – Ingeniería y Tecnología para el Control Inteligente de tu Empresa.
