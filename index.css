@@ -1,0 +1,32 @@
+/* Global Styles for Nexatech */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+:root {
+  --nexa-50: #f0f9ff;
+  --nexa-100: #e0f2fe;
+  --nexa-200: #bae6fd;
+  --nexa-300: #7dd3fc;
+  --nexa-400: #38bdf8;
+  --nexa-500: #0ea5e9;
+  --nexa-600: #0284c7;
+  --nexa-700: #0369a1;
+  --nexa-800: #075985;
+  --nexa-900: #0c4a6e;
+  --nexa-950: #082f49;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Add any custom animations here */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}
