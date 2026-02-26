@@ -102,6 +102,10 @@ const Hero: React.FC = () => {
                 <CheckCircle2 size={18} className="text-nexa-500" />
                 <span>Talento Humano</span>
               </div>
+              <div className="flex items-center gap-2">
+                <CheckCircle2 size={18} className="text-nexa-500" />
+                <span>Gestión de Seguridad y Salud (HSE)</span>
+              </div>
             </div>
           </div>
 
