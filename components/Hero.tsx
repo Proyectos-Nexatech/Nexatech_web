@@ -72,7 +72,7 @@ const Hero: React.FC = () => {
             </h1>
 
             <p className="text-lg text-slate-600 leading-relaxed max-w-xl">
-              Desarrollamos soluciones digitales personalizadas para proyectos industriales y gestión administrativa: control de tiempo, costo, talento humano, activos y documentación en una sola plataforma integrada.
+              Diseñamos y desarrollamos diversas plataformas digitales adaptadas a la complejidad de cada área: desde la gestión administrativa y de proyectos, hasta el control especializado de tiempos, costos, activos y documentación.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">
