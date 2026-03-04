@@ -12,7 +12,7 @@ export interface TestimonialItem {
   name: string;
   role: string;
   company: string;
-  content: string;
+  content: React.ReactNode;
   avatar: string;
 }
 
