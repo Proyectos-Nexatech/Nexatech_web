@@ -74,7 +74,7 @@ export const TESTIMONIALS: TestimonialItem[] = [
     name: 'Edgardo Torres',
     role: 'Gerente Comercial',
     company: 'Merproycca S.A.S.',
-    content: 'Proyecto Planta NAN 2 – Yara Cartagena. Durante la ejecución del proyecto eléctrico e instrumentación en la Planta NAN 2 de Yara en Cartagena, el software de Nexatech fue clave para el seguimiento y control del proyecto. Nos permitió organizar la información, optimizar tiempos de respuesta y mantener trazabilidad en cada etapa, aportando visibilidad y soporte para una toma de decisiones efectiva. Destacamos el acompañamiento constante de su equipo y su enfoque en soluciones prácticas alineadas con las necesidades operativas en campo. Su profesionalismo contribuyó directamente al cumplimiento de los objetivos del proyecto.',
+    content: 'Proyecto Planta NAN 2 – Yara Cartagena. El software de Nexatech fue clave para el seguimiento y control del proyecto eléctrico e instrumentación, permitiéndonos organizar la información, optimizar tiempos y asegurar trazabilidad en cada etapa. Su acompañamiento y enfoque práctico contribuyeron directamente al cumplimiento de los objetivos.',
     avatar: 'https://picsum.photos/100/100?random=1'
   },
   {
