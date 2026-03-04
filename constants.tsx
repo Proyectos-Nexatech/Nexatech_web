@@ -71,10 +71,10 @@ export const BENEFITS = [
 export const TESTIMONIALS: TestimonialItem[] = [
   {
     id: '1',
-    name: 'Ing. Carlos Rodríguez',
-    role: 'Director de Operaciones',
-    company: 'Constructora Nacional',
-    content: 'Antes perdíamos horas consolidando reportes de obra. Con el dashboard industrial de Nexatech, tenemos control de costos en tiempo real. La eficiencia operativa subió un 35%.',
+    name: 'Edgardo Torres',
+    role: 'Gerente Comercial',
+    company: 'Merproycca S.A.S.',
+    content: 'Proyecto Planta NAN 2 – Yara Cartagena. Durante la ejecución del proyecto eléctrico e instrumentación en la Planta NAN 2 de Yara en Cartagena, el software de Nexatech fue clave para el seguimiento y control del proyecto. Nos permitió organizar la información, optimizar tiempos de respuesta y mantener trazabilidad en cada etapa, aportando visibilidad y soporte para una toma de decisiones efectiva. Destacamos el acompañamiento constante de su equipo y su enfoque en soluciones prácticas alineadas con las necesidades operativas en campo. Su profesionalismo contribuyó directamente al cumplimiento de los objetivos del proyecto.',
     avatar: 'https://picsum.photos/100/100?random=1'
   },
   {
