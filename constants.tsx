@@ -84,10 +84,16 @@ export const TESTIMONIALS: TestimonialItem[] = [
   },
   {
     id: '2',
-    name: 'Andrea Martínez',
-    role: 'Gerente de RRHH',
-    company: 'Logística Global S.A.',
-    content: 'La gestión documental y de talento humano era un caos de papeles. El software a medida automatizó todo el ciclo del empleado, reduciendo errores manuales a cero.',
+    name: 'Walter Marín',
+    role: 'Gerente General',
+    company: 'CDI S.A.',
+    content: (
+      <>
+        La implementación del aplicativo de control y seguimiento de proyectos fortaleció nuestra gestión interna, brindándonos visibilidad en tiempo real, control de tiempos, y una base sólida para la toma de decisiones.
+        <br /><br />
+        Su facilidad de uso y adaptabilidad nos permiten gestionar nuestros proyectos con mayor eficiencia y trazabilidad.
+      </>
+    ),
     avatar: 'https://picsum.photos/100/100?random=2'
   },
   {
