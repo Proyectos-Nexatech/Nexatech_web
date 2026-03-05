@@ -98,10 +98,10 @@ export const TESTIMONIALS: TestimonialItem[] = [
   },
   {
     id: '3',
-    name: 'Felipe Gómez',
-    role: 'CEO',
-    company: 'Manufacturas del Valle',
-    content: 'Necesitábamos integrar maquinaria antigua con sistemas modernos. Su transformación digital nos dio visibilidad 24/7 de la planta. El ROI se vio en menos de 6 meses.',
+    name: 'Victor Fajardo Pizarro ',
+    role: 'Director de Compras y Suministros',
+    company: 'Astivik S.A.',
+    content: 'A lo largo de todos los años del astillero hemos tenido la dificultad para el control permanente de todos nuestros proveedores y personal en campo, con la herramienta desarrollada por Nexatech hemos logrado tener un mayor control eficiente en los proyectos y establecer seguimientos y lineamientos para que se promueva el avance eficaz en los proyectos, la herramienta logro ajustarse a nuestra necesidad y lograr aprovechar al m?ximo los recursos con los cuales contamos para llevar a cabo nuestros proyectos, recomendado.',
     avatar: 'https://picsum.photos/100/100?random=3'
   }
 ];
