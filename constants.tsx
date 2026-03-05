@@ -94,7 +94,7 @@ export const TESTIMONIALS: TestimonialItem[] = [
         Su facilidad de uso y adaptabilidad nos permiten gestionar nuestros proyectos con mayor eficiencia y trazabilidad.
       </>
     ),
-    avatar: 'https://picsum.photos/100/100?random=2'
+    avatar: 'logo-cdisa.png'
   },
   {
     id: '3',
@@ -102,6 +102,6 @@ export const TESTIMONIALS: TestimonialItem[] = [
     role: 'Director de Compras y Suministros',
     company: 'Astivik S.A.',
     content: 'A lo largo de todos los años del astillero hemos tenido la dificultad para el control permanente de todos nuestros proveedores y personal en campo, con la herramienta desarrollada por Nexatech hemos logrado tener un mayor control eficiente en los proyectos y establecer seguimientos y lineamientos para que se promueva el avance eficaz en los proyectos, la herramienta logro ajustarse a nuestra necesidad y lograr aprovechar al m?ximo los recursos con los cuales contamos para llevar a cabo nuestros proyectos, recomendado.',
-    avatar: 'https://picsum.photos/100/100?random=3'
+    avatar: 'Astivik.png'
   }
 ];
