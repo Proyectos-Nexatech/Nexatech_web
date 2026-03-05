@@ -80,7 +80,7 @@ export const TESTIMONIALS: TestimonialItem[] = [
         El software de Nexatech fue clave para el seguimiento y control del proyecto eléctrico e instrumentación, permitiéndonos organizar la información, optimizar tiempos y asegurar trazabilidad en cada etapa. Su acompañamiento y enfoque práctico contribuyeron directamente al cumplimiento de los objetivos.
       </>
     ),
-    avatar: 'https://picsum.photos/100/100?random=1'
+    avatar: 'mer-proycca-logo-jpg.jpg'
   },
   {
     id: '2',
